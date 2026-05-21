@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(Get-ChildItem C:\\\\Users\\\\zang3\\\\OneDrive\\\\Desktop\\\\새 폴더\\\\blush-command-system *)",
+      "Bash(gh auth *)"
+    ]
+  }
+}

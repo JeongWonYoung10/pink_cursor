@@ -1,0 +1,41 @@
+{
+  "fontFamily": {
+    "ui": "ui-sans-serif, system-ui, sans-serif",
+    "code": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+  },
+  "displayXL": {
+    "fontSize": "72px",
+    "lineHeight": "0.95",
+    "letterSpacing": "-0.07em",
+    "fontWeight": "650"
+  },
+  "displayL": {
+    "fontSize": "56px",
+    "lineHeight": "1",
+    "letterSpacing": "-0.06em",
+    "fontWeight": "650"
+  },
+  "heading": {
+    "fontSize": "40px",
+    "lineHeight": "1.05",
+    "letterSpacing": "-0.045em",
+    "fontWeight": "650"
+  },
+  "body": {
+    "fontSize": "16px",
+    "lineHeight": "1.65",
+    "letterSpacing": "0",
+    "fontWeight": "400"
+  },
+  "meta": {
+    "fontSize": "12px",
+    "lineHeight": "1.4",
+    "letterSpacing": "0",
+    "fontWeight": "500"
+  },
+  "code": {
+    "fontSize": "13px",
+    "lineHeight": "1.6",
+    "fontFamily": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+  }
+}

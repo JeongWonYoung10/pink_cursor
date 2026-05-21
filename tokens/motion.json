@@ -1,0 +1,14 @@
+{
+  "softEnter": {
+    "duration": 0.45,
+    "y": 16
+  },
+  "paletteOpen": {
+    "duration": 0.22,
+    "scaleFrom": 0.98
+  },
+  "successPop": {
+    "duration": 0.32,
+    "scaleFrom": 0.94
+  }
+}

@@ -1,0 +1,35 @@
+:root {
+  --bc-bg-base: #FFF7FA;
+  --bc-bg-surface: #FFFFFF;
+  --bc-bg-blush: #FFD1DC;
+  --bc-bg-panel: #F8C8DC;
+  --bc-bg-mist: #EFCFE3;
+
+  --bc-action-primary: #FF4F9A;
+  --bc-action-hover: #FF5DA2;
+  --bc-action-gradient-end: #FF9A9E;
+
+  --bc-text-strong: #3A2030;
+  --bc-text-muted: #7F5268;
+  --bc-text-soft: #9B6C82;
+
+  --bc-border-glass: rgba(255,255,255,0.75);
+  --bc-border-blush: rgba(248,200,220,0.8);
+
+  --bc-surface-glass: rgba(255,255,255,0.58);
+  --bc-surface-glass-strong: rgba(255,255,255,0.75);
+  --bc-surface-blush-soft: rgba(255,209,220,0.45);
+
+  --bc-radius-xs: 8px;
+  --bc-radius-sm: 12px;
+  --bc-radius-md: 16px;
+  --bc-radius-lg: 20px;
+  --bc-radius-xl: 24px;
+  --bc-radius-2xl: 32px;
+  --bc-radius-shell: 36px;
+
+  --bc-shadow-surface: 0 24px 70px rgba(255, 79, 154, 0.10);
+  --bc-shadow-soft: 0 8px 24px rgba(255, 79, 154, 0.08);
+  --bc-shadow-action: 0 16px 40px rgba(255, 79, 154, 0.22);
+  --bc-shadow-agent: 0 20px 50px rgba(255, 79, 154, 0.20);
+}
